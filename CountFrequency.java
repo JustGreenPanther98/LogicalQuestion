@@ -1,3 +1,4 @@
+//cOUNTING fREQUENCY OF CHARACTER IN SENTANCES
 import java.util.Scanner;
 public class CountFrequency{
 	public static void main(String[] args) {
