@@ -1,4 +1,4 @@
-public class maskify {
+public class Maskify {
     public static String maskify_(String str) {
         int j = 4;
         String code = "";
