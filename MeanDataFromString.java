@@ -1,5 +1,5 @@
 //Considering string to be 
-//"townname : Jan 13.5,Feb 14.5, and so on upto Dec"
+//"townname : Jan 13.5,Feb 14.5, and so on upto Dec \n townname2 : Jan 35.1 Feb 317.1 upto Dec ....and so on"
 public class MeanDataFromString{
     public static double mean(String town, String strng) {
         if (town.isEmpty() || strng.isEmpty()) return -1;
