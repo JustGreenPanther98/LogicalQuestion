@@ -1,4 +1,4 @@
-public class CamelCaseToNormal{
+public class canelCaseWithSpace{
 	public static String camelCase(String input) {
 	    //camelCasing=>camle Casing
 	    if(input.trim().isEmpty()) return "";
