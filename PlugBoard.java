@@ -1,7 +1,6 @@
 import java.util.*;
 class InvalidPlugboardWiresException extends Exception{
 	@Override
-	super("Exception!")
 	public String getMessage() {
 		return "Characters are interlinked!";
 	}

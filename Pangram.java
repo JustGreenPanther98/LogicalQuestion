@@ -1,6 +1,6 @@
 //Pangram is a string in which all alphabets are present at least once
 import java.util.Scanner;
-public class pangram{
+public class Pangram{
 	public static void main(String [] args) {
 		String Sentance,lowerSentance;
 		Scanner S = new Scanner(System.in);

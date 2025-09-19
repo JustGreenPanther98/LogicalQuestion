@@ -1,5 +1,4 @@
 public class SplitStringByTwo{
-	public class StringSplit {
 	    public static String[] solution(String s) {
 	      String str;
 	      String [] arr;
@@ -33,4 +32,3 @@ public class SplitStringByTwo{
 	      return arr;
 	  }
 	}
-}
